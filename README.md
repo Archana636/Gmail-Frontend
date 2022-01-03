@@ -1,4 +1,4 @@
-<h1 align="left">Development Link</h1>
+<h1 align="left">Development Linsk</h1>
 
 <p dir="auto"><a href="https://archu-gmail.herokuapp.com/">https://archu-gmail.herokuapp.com/</a></p>
 
