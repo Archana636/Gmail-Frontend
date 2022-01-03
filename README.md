@@ -4,7 +4,7 @@ https://archu-gmail.herokuapp.com/
  </div>
 
 
-<div>
-Frontend Repo https://github.com/Archana636/Gmail-Frontend width="40" height="40
+<div width="40" height="40>
+Frontend Repo https://github.com/Archana636/Gmail-Frontend 
  </div>
 Backend Repo  https://github.com/Archana636/Gmail-Backend
