@@ -1,7 +1,7 @@
 <h1 align="left">Development Link</h1>
-<div>
-https://archu-gmail.herokuapp.com/
- </div>
+
+<p dir="auto"><a href="https://archu-gmail.herokuapp.com/">https://archu-gmail.herokuapp.com/</a></p>
+
 
 
 
